@@ -1,8 +1,9 @@
 # Ruang Shooting UG TV dengan Blender
 ![Foto UG TV](media/ug_tv.jpg)
-
-Selamat datang di index.md tentang bagaimana menggunakan Blender untuk membuat ruang shooting UG TV. Dalam panduan ini, kami akan membahas langkah-langkah untuk membuat ruang shooting virtual yang realistis dengan bantuan perangkat lunak Blender. Mari kita mulai!
-
+NAMA KELOMPOK :
+AQSHA NASUTION (50420212)
+ASKA PRAMANDA TANTO (51420338)
+BRIAN RIAN REHAN (50420296)
 ## Daftar Isi
 1. Pendahuluan
 2. Persiapan Awal
