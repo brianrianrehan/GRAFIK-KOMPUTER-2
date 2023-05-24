@@ -36,6 +36,4 @@ Sebelum melakukan proses render, tentukan pengaturan render yang sesuai dengan k
 ## 8. Kesimpulan
 Dalam panduan ini, kami telah membahas langkah-langkah dasar untuk membuat ruang shooting UG TV dengan Blender. Dari pembuatan model ruangan hingga penambahan objek dan animasi kamera, Anda dapat menciptakan ruang shooting yang realistis dan interaktif. Selanjutnya, Anda dapat mengeksplorasi lebih lanjut dengan menambahkan detail dan efek khusus sesuai kebutuhan produksi TV Anda.
 
-Sek
-
-arang Anda memiliki dasar untuk memulai perancangan ruang shooting UG TV menggunakan Blender. Selamat mencoba dan semoga berhasil!
+Sekarang Anda memiliki dasar untuk memulai perancangan ruang shooting UG TV menggunakan Blender. Selamat mencoba dan semoga berhasil!
