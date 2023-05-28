@@ -1,5 +1,8 @@
 # Ruang Shooting UG TV dengan Blender
-![Foto UG TV](media/ug_tv.jpg)
+![Foto UG TV](https://github.com/aqshanasution/ugtv/blob/main/media/RENDER.png)
+![Foto UG TV](https://github.com/aqshanasution/ugtv/blob/main/media/ugtvanim.gif)
+## DOWNLOAD PROJECT
+[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://drive.google.com/drive/folders/1ZyPJ-ausymBgS4ZFpbllGjGY3BOkHuD5?usp=sharing)
 ## NAMA KELOMPOK :
 1. AQSHA NASUTION (50420212)
 2. ASKA PRAMANDA TANTO (51420338)
@@ -36,6 +39,4 @@ Buatlah animasi kamera untuk memberikan pandangan yang dinamis dalam ruangan. An
 Sebelum melakukan proses render, tentukan pengaturan render yang sesuai dengan kebutuhan Anda. Pilih resolusi, format file, dan pengaturan lainnya agar hasil render sesuai dengan ekspektasi.
 
 ## 8. Kesimpulan
-Dalam panduan ini, kami telah membahas langkah-langkah dasar untuk membuat ruang shooting UG TV dengan Blender. Dari pembuatan model ruangan hingga penambahan objek dan animasi kamera, Anda dapat menciptakan ruang shooting yang realistis dan interaktif. Selanjutnya, Anda dapat mengeksplorasi lebih lanjut dengan menambahkan detail dan efek khusus sesuai kebutuhan produksi TV Anda.
-
-Sekarang Anda memiliki dasar untuk memulai perancangan ruang shooting UG TV menggunakan Blender. Selamat mencoba dan semoga berhasil!
+Dalam panduan ini, kami telah membahas langkah-langkah dasar untuk membuat ruang shooting UG TV dengan Blender. Dari pembuatan model ruangan hingga penambahan objek dan animasi kamera, Anda dapat menciptakan ruang shooting yang realistis dan interaktif.
